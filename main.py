@@ -1,6 +1,6 @@
 
 # själva texten. 
-test_string = input("Skriv en mening eller text: ")
+test_string = input()
 # visar hur många ord i texten.
 res = len(test_string.split())
 
